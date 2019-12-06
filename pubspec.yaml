@@ -1,0 +1,34 @@
+name: flutter_provider
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  provider: ^3.2.0
+  webview_flutter: ^0.3.17
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/avatar_0.png
+    - assets/avatar_1.png
+    - assets/avatar_2.png
+    - assets/avatar_3.png
+    - assets/avatar_4.png
+    - assets/avatar_5.png
+    - assets/avatar_6.png
+    - assets/avatar_7.png
+    - assets/avatar_8.png
+    - assets/avatar_9.png
